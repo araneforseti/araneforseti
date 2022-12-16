@@ -2,11 +2,11 @@
 
 #### 🔭 I’m currently working on ...
 
-- My personal grocery app
+- Weekend Event Helper
 - Writing a book (fiction)
 
 #### 🌱 I’m currently learning ...
-- Unity
+- Godot
 
 #### 💬 Ask me about ...
 Quality Strategy 🎉
